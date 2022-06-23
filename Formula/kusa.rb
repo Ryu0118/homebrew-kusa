@@ -4,7 +4,7 @@
 class Kusa < Formula
   desc "Kusa is a CLI application that displays the Github Contributions Graph."
   homepage "https://github.com/Ryu0118/Kusa"
-  url "https://github.com/Ryu0118/Kusa/archive/0.0.1.tar.gz"
+  url "https://github.com/Ryu0118/Kusa/archive/0.0.1/kusa"
   sha256 "d895a8ed694ab93b85ed75e4dd8078eafc42a5c0fa1ccc52823fa62f2977d2cf"
   license "MIT"
 
