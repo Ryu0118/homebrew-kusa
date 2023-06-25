@@ -4,8 +4,8 @@
 class Kusa < Formula
   desc "Kusa is a CLI application that displays the Github Contributions Graph."
   homepage "https://github.com/Ryu0118/Kusa"
-  url "https://github.com/Ryu0118/Kusa/releases/download/0.0.2/kusa"
-  sha256 "a01787a37b6b737fd39ce7addc384f0084de752ddb22a312fd862bb4f5fe37d5"
+  url "https://github.com/Ryu0118/Kusa/releases/download/0.1.0/kusa"
+  sha256 "341fb5150cd919e3263b69284383ed6788e257443ee3e3eaec04a910a2fbeef5"
   license "MIT"
 
   # depends_on "cmake" => :build
